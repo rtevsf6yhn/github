@@ -19,7 +19,7 @@ and should not be taken as official GitHub policy in any way.  I still use
 GitHub all day long, and almost all my code is still hosted there.</ins>
 
 Issues and feature requests posted to GitHub are not stored in any
-publicly available location, so I find that I quickly lose track of
+publicly available location, so I find that I quickly lose track ofyouer
 the things that I've sent them.
 
 ## For GitHubbers
