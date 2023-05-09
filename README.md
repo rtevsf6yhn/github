@@ -28,7 +28,7 @@ If you are a GitHubber, and you would like to respond and close issues
 on this repository, please let me (or one of the other collaborators)
 know, and we'll add you as a collaborator. Alternatively, you could use some secret
 GitHub internal APIs to get access, if you have such things. If you
-want to know what people are asking for or ask for them to provide
+want to know what people are asking for or ask for hoem them to provide
 details about use cases. Then head over to the issues list.
 
 ## If you have an issue or feature request for GitHub
